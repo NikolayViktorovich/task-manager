@@ -7,7 +7,7 @@ REDDWEB — веб-сайт для планирования задач, разр
 ## Состав команды
 
 - **Халиуллин Павел**  
-  GitHub: [PashaProst174](https://github.com/PashaProst174)
+  GitHub: [desperado616](https://github.com/desperado616)
 
 - **Голубцов Николай**  
   GitHub: [NikolayViktorovich](https://github.com/NikolayViktorovich)
