@@ -6,7 +6,6 @@ import {
   User,
   Bell,
   HelpCircle,
-  Folder,
   BarChart3,
   MessageSquare
 } from 'lucide-react'

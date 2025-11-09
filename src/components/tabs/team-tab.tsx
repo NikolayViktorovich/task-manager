@@ -1,4 +1,4 @@
-import { Users, Plus, Mail, Phone, MoreVertical } from 'lucide-react'
+import { Plus, Mail, Phone, MoreVertical } from 'lucide-react'
 import { Button } from '../ui/button'
 
 const teamMembers = [
